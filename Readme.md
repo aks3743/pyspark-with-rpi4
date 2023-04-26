@@ -17,7 +17,7 @@ To set the JAVA_HOME environment variable on a Raspberry Pi 4, you can follow th
 
 4. Add the following lines at the end of the file:
 ```export JAVA_HOME=/path/to/java/installation
-export PATH=$JAVA_HOME/bin:$PATH```
+export PATH=$JAVA_HOME/bin:$PATH ```
 
 Replace /path/to/java/installation with the path to the Java installation directory that you noted down in step 2.
 
