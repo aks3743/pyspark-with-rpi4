@@ -40,13 +40,13 @@ To create a virtual environment in the current directory, type `virtualenv pyspa
 ### Activating virtualenv
 To activate the env that you just created type `source activate pyspark/bin/activate` in the terminal
 
-## Step4 Installing PySpark l
+## Step4 Installing PySpark 
 To install pyspark type `pip istall pyspark` in the terminal
 
 ## Step4 Installing jupyter-lab
 To install jupyter-lab type `pip install jupyterlab` in the terminal 
 
-## Step5 Launching jupyeter lab
+## Step5 Launching jupyter lab
 Type jupyterlab in the terminal
 
 
