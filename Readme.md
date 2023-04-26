@@ -47,7 +47,7 @@ To install pyspark type `pip istall pyspark` in the terminal
 To install jupyter-lab type `pip install jupyterlab` in the terminal 
 
 ## Step5 Launching jupyter lab
-Type jupyterlab in the terminal
+Type `jupyter lab` in the terminal
 
 
 
