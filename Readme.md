@@ -38,7 +38,7 @@ Install virtualenv using command `pip install virtualenv`
 Once it is installed successfully, a virtual environment with name pyspark (you can use any name that you want)
 To create a virtual environment in the current directory, type `virtualenv pyspark` in the terminal
 ### Activating virtualenv
-To activate the env that you just created type `source activate pyspark/bin/activate` in the terminal
+To activate the env that you just created type `source pyspark/bin/activate` in the terminal
 
 ## Step4 Installing PySpark 
 To install pyspark type `pip istall pyspark` in the terminal
